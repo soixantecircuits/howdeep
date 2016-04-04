@@ -1,17 +1,17 @@
 {
   "name": "dip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple cli to know your dir level",
   "main": "index.js",
   "bin": {
-    "spacebro": "./bin/spacebro"
+    "howdeep": "./bin/howdeep"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soixantecircuits/dip.git"
+    "url": "git+https://github.com/soixantecircuits/howdeep.git"
   },
   "keywords": [
     "level",
@@ -22,9 +22,9 @@
   "author": "gabrielstuff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soixantecircuits/dip/issues"
+    "url": "https://github.com/soixantecircuits/howdeep/issues"
   },
-  "homepage": "https://github.com/soixantecircuits/dip#readme",
+  "homepage": "https://github.com/soixantecircuits/howdeep#readme",
   "dependencies": {
     "lodash": "^4.7.0"
   }
