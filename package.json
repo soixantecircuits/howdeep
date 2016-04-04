@@ -1,0 +1,31 @@
+{
+  "name": "dip",
+  "version": "0.0.1",
+  "description": "simple cli to know your dir level",
+  "main": "index.js",
+  "bin": {
+    "spacebro": "./bin/spacebro"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soixantecircuits/dip.git"
+  },
+  "keywords": [
+    "level",
+    "dip",
+    "directory",
+    "cli"
+  ],
+  "author": "gabrielstuff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soixantecircuits/dip/issues"
+  },
+  "homepage": "https://github.com/soixantecircuits/dip#readme",
+  "dependencies": {
+    "lodash": "^4.7.0"
+  }
+}
